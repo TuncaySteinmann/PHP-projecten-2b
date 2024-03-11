@@ -1,0 +1,15 @@
+{
+    "name": "tunca/loginopdracht",
+    "autoload": {
+        "psr-4": {
+            "Loginopdracht\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TuncaySteinmann",
+            "email": "112862509+TuncaySteinmann@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
